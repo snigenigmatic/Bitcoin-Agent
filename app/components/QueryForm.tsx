@@ -63,6 +63,7 @@ export function QueryForm() {
                 <SelectItem value="es">Spanish</SelectItem>
                 <SelectItem value="fr">French</SelectItem>
                 <SelectItem value="de">German</SelectItem>
+                <SelectItem value="hn">Hindi</SelectItem>
               </SelectContent>
             </Select>
           </div>
